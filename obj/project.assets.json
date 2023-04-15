@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre\\source\\repos\\JogoAdvinhacao\\JogoAdvinhacao.csproj",
+      "projectUniqueName": "C:\\Users\\andre\\source\\repos\\JogoAdivinhacao\\JogoAdvinhacao.csproj",
       "projectName": "JogoAdvinhacao",
-      "projectPath": "C:\\Users\\andre\\source\\repos\\JogoAdvinhacao\\JogoAdvinhacao.csproj",
+      "projectPath": "C:\\Users\\andre\\source\\repos\\JogoAdivinhacao\\JogoAdvinhacao.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andre\\source\\repos\\JogoAdvinhacao\\obj\\",
+      "outputPath": "C:\\Users\\andre\\source\\repos\\JogoAdivinhacao\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
